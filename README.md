@@ -26,6 +26,5 @@ Minor - 20/04
 
 
 🔭 Concepts/coming soon:
-- Bird Guide
-- Anti-AI Chrome extension
-- Desktop assistant
+- Bird Guide 
+- Personal Journal Site (wont be public, either screenshots or a demo mode will be on portfolio)
