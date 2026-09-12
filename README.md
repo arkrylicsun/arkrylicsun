@@ -27,4 +27,4 @@ Minor - 20/04
 
 🔭 Concepts/coming soon:
 - Bird Guide 
-- Personal Journal Site (wont be public, either screenshots or a demo mode will be on portfolio)
+- Personal Journal App (wont be public, either screenshots or a demo mode will be on portfolio)
