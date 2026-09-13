@@ -21,6 +21,7 @@ Minor - 20/04
 ...  
 
 🏷️ Current projects:  
+-
 -    [🌱 ClanGen](ClanGenOfficial/clangen)  
 -    [🔭 Save Checker](https://github.com/Ssuncreature/clangen-save-checker)
 -    Personal Journal App (using Electron to host)
