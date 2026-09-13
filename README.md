@@ -26,5 +26,4 @@ Minor - 20/04
 
 
 🔭 Concepts/coming soon:
-- Bird Guide 
-- Personal Journal App (wont be public, either screenshots or a demo mode will be on portfolio)
+- Personal Journal App (using Electron to host)
