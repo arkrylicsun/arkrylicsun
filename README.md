@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[https://ssuncreature.github.io/](https://ssuncreature.github.io/ssuncreature)
+[https://arkrylicsun.github.io/](https://arkrylicsun.github.io/ssuncreature)
 
-Hi! I'm Ssuncreature; feel free to call me Dawn or Sunn! I use she / they / it pronouns.  
+Hi! I'm Ark - she / they / it pronouns.  
 Minor - 20/04
   
 ...  
