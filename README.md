@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [https://arkrylicsun.github.io/](https://arkrylicsun.github.io/ssuncreature)
 
-Hi! I'm Ark - she / they / it pronouns.  
+Hi! I'm Ark - they/them pronouns.  
 Minor - 20/04
   
 ...  
