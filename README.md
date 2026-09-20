@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[https://arkrylicsun.github.io/](https://arkrylicsun.github.io/ssuncreature)
+[https://arkrylicsun.github.io/](https://arkrylicsun.github.io)
 
 Hi! I'm Ark - they/them pronouns.  
 Minor - 20/04
