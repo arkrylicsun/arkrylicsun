@@ -25,6 +25,7 @@ Minor - 20/04
 -    [🌱 ClanGen](ClanGenOfficial/clangen)  
 -    [🔭 Save Checker](https://github.com/Ssuncreature/clangen-save-checker)
 -    Personal Journal App (using Electron to host)
+-    Rework Personal Website / Make Art Portfolio
 
 
 🔭 Concepts/coming soon:
